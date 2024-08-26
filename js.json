@@ -1,0 +1,22 @@
+const users = {
+        "id": 1,
+        "first_name": "Claire",
+        "last_name": "Di Meo",
+        "email": "cdimeo0@xrea.com",
+        "gender": "Male",
+        "image": "https://robohash.org/sapientenobisvoluptas.png?size=50x50&set=set1"
+      }, {
+        "id": 2,
+        "first_name": "Heath",
+        "last_name": "Wisbey",
+        "email": "hwisbey1@github.io",
+        "gender": "Female",
+        "image": "https://robohash.org/autlaboriosamvoluptas.png?size=50x50&set=set1"
+      }, {
+        "id": 3,
+        "first_name": "Vinnie",
+        "last_name": "Sullly",
+        "email": "vsullly2@lulu.com",
+        "gender": "Male",
+        "image": "https://robohash.org/quiautquidem.png?size=50x50&set=set1"
+      },
